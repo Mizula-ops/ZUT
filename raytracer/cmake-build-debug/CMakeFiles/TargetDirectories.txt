@@ -1,3 +1,0 @@
-C:/Users/NeuroSYS/OneDrive/Pulpit/raytracer/cmake-build-debug/CMakeFiles/rt.dir
-C:/Users/NeuroSYS/OneDrive/Pulpit/raytracer/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/NeuroSYS/OneDrive/Pulpit/raytracer/cmake-build-debug/CMakeFiles/rebuild_cache.dir
