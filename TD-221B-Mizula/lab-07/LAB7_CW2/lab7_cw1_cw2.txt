@@ -1,0 +1,4 @@
+Ra dlugosc:8484.01B(AM):2 Hz
+RP dlugosc:14623.6B(PM):4 Hz
+RF dlugosc:16194.9B(FM):6 Hz
+Energia: 16384.6
