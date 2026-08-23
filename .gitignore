@@ -1,0 +1,11 @@
+*.ppm
+.DS_Store
+__pycache__/
+.venv/
+bin/
+obj/
+Library/
+Logs/
+Temp/
+*.ppm
+*.blob

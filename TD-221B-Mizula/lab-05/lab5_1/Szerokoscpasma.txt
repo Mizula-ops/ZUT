@@ -1,0 +1,30 @@
+Pierwsze wartości:
+Szerokosc pasma B3dB dla zA: 0
+Szerokosc pasma B3dB dla zP: 0
+Szerokosc pasma B3dB dla zF: 0
+Szerokosc pasma B6dB dla zA: 0
+Szerokosc pasma B6dB dla zP: 10
+Szerokosc pasma B6dB dla zF: 0
+Szerokosc pasma B10dB dla zA: 10
+Szerokosc pasma B10dB dla zP: 10
+Szerokosc pasma B10dB dla zF: 0
+Drugie wartości:
+Szerokosc pasma B3dB dla zA: 10
+Szerokosc pasma B3dB dla zP: 10
+Szerokosc pasma B3dB dla zF: 0
+Szerokosc pasma B6dB dla zA: 10
+Szerokosc pasma B6dB dla zP: 20
+Szerokosc pasma B6dB dla zF: 0
+Szerokosc pasma B10dB dla zA: 10
+Szerokosc pasma B10dB dla zP: 30
+Szerokosc pasma B10dB dla zF: 10
+Trzecie wartości: 
+Szerokosc pasma B3dB dla zA: 10
+Szerokosc pasma B3dB dla zP: 75
+Szerokosc pasma B3dB dla zF: 20
+Szerokosc pasma B6dB dla zA: 10
+Szerokosc pasma B6dB dla zP: 75
+Szerokosc pasma B6dB dla zF: 20
+Szerokosc pasma B10dB dla zA: 10
+Szerokosc pasma B10dB dla zP: 75
+Szerokosc pasma B10dB dla zF: 30

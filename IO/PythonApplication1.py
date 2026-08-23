@@ -1,0 +1,45 @@
+﻿
+import numpy as np
+from usluga import Usluga
+from faktura import Faktura
+from uzytkownik import User
+from oferta import OfertaPodwykonawcy
+from rezerwacje import Rezerwacja
+from podwykonawcy import Podwykonawcy
+gosc=User("Jakub","Szpakowski","jakub@wp.pl","szpakowski123","Gosc")
+organizator=User("Artur","Mizula","artur@gmail.com","artur123","organizator")
+usluga=Usluga("Promyk Organizacja Wesel","Muzyka,Catering,Sala","Zawodowa organizacja wesel",'300zl /os')
+podwykonawca=Podwykonawcy("Mirek","Szpaczki","jakub124@gmail.com","534232323")
+oferta_podwykonawcy=OfertaPodwykonawcy("Dostępna","50zl/os",podwykonawca.get_imie())
+rezerwacja=Rezerwacja(gosc.get_imie(),gosc.get_email(),"Oczekujace zapłaty","22-02-2024",15000,usluga.get_nazwa())
+faktura=Faktura(5353532,f"Opłata za Usługe {usluga.get_nazwa()}")
+print("Wyświetlenie konta goscia:")
+print(gosc)
+print("-----------------------------------------")
+print("Wyświetlenie konta organizatora:")
+print(organizator)
+print("-----------------------------------------")
+print("Logowanie się na konto: ")
+gosc.zaloguj_sie("jakub@wp.pl","szpakowski123")
+print("-----------------------------------------")
+print("Wyświetlenie dodanej Uslugi:")
+print(usluga)
+print("-----------------------------------------") 
+print("Wyświetlenie podwykonawcy:")
+print(podwykonawca)
+print("-----------------------------------------") 
+print("Dodanie podwykonawcy do uslugi:")
+print(usluga.dodaj_podwykonawce(podwykonawca.get_imie()))
+print("-----------------------------------------")
+print("Wyświetlenie oferty podwykonawcy:")
+print(oferta_podwykonawcy)
+print("-----------------------------------------") 
+print("Wyświetlenie dodanej Uslugi z wykonawca:")
+print(usluga)
+print("-----------------------------------------") 
+print("Wyświetlenie rezerwacji:")
+print(rezerwacja)
+print("-----------------------------------------") 
+print("Wyświetlenie faktury:")
+print(faktura)
+print("-----------------------------------------") 

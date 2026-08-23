@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakeProjectFlavorService">
+    <option name="flavorId" value="CMakePlainProjectFlavor" />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a89161b7-66e8-4327-9253-be6954273429" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../ProgRozp/macierze/Macierze/Macierze/Mandelbrot.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SYSTEMY_MULTIMEDIALNE/PythonProject/IMG_GS/GS_0001.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SYSTEMY_MULTIMEDIALNE/PythonProject/IMG_GS/GS_0002.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SYSTEMY_MULTIMEDIALNE/PythonProject/IMG_GS/GS_0003.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SYSTEMY_MULTIMEDIALNE/PythonProject/IMG_SMALL/SMALL_0001.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SYSTEMY_MULTIMEDIALNE/PythonProject/IMG_SMALL/SMALL_0002.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SYSTEMY_MULTIMEDIALNE/PythonProject/IMG_SMALL/SMALL_0003.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SYSTEMY_MULTIMEDIALNE/PythonProject/IMG_SMALL/SMALL_0004.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SYSTEMY_MULTIMEDIALNE/PythonProject/IMG_SMALL/SMALL_0005.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SYSTEMY_MULTIMEDIALNE/PythonProject/IMG_SMALL/SMALL_0006.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SYSTEMY_MULTIMEDIALNE/PythonProject/IMG_SMALL/SMALL_0007.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SYSTEMY_MULTIMEDIALNE/PythonProject/IMG_SMALL/SMALL_0008.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SYSTEMY_MULTIMEDIALNE/PythonProject/IMG_SMALL/SMALL_0009.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SYSTEMY_MULTIMEDIALNE/PythonProject/IMG_SMALL/SMALL_0010.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SYSTEMY_MULTIMEDIALNE/PythonProject/SM_Lab04_Base.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SYSTEMY_MULTIMEDIALNE/lab10/SM_LAB10_Base.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SYSTEMY_MULTIMEDIALNE/lab5/Lab_sound_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SYSTEMY_MULTIMEDIALNE/lab5/SIN/sin_440Hz.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SYSTEMY_MULTIMEDIALNE/lab5/SIN/sin_60Hz.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SYSTEMY_MULTIMEDIALNE/lab5/SIN/sin_8000Hz.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SYSTEMY_MULTIMEDIALNE/lab5/SIN/sin_combined.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SYSTEMY_MULTIMEDIALNE/lab5/SING/sing_high1.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SYSTEMY_MULTIMEDIALNE/lab5/SING/sing_high2.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SYSTEMY_MULTIMEDIALNE/lab5/SING/sing_low1.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SYSTEMY_MULTIMEDIALNE/lab5/SING/sing_low2.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SYSTEMY_MULTIMEDIALNE/lab5/SING/sing_medium1.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SYSTEMY_MULTIMEDIALNE/lab5/SING/sing_medium2.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SYSTEMY_MULTIMEDIALNE/lab5/SM_Lab05_Base.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SYSTEMY_MULTIMEDIALNE/lab7/SING2/sing_high1.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SYSTEMY_MULTIMEDIALNE/lab7/SING2/sing_high2.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SYSTEMY_MULTIMEDIALNE/lab7/SING2/sing_low1.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SYSTEMY_MULTIMEDIALNE/lab7/SING2/sing_low2.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SYSTEMY_MULTIMEDIALNE/lab7/SING2/sing_medium1.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SYSTEMY_MULTIMEDIALNE/lab7/SING2/sing_medium2.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SYSTEMY_MULTIMEDIALNE/lab8/SM_Lab06_Base.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SYSTEMY_MULTIMEDIALNE/lab8/SM_Lab08_Base.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SYSTEMY_MULTIMEDIALNE/lab8/img1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SYSTEMY_MULTIMEDIALNE/lab8/img2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SYSTEMY_MULTIMEDIALNE/lab8/img3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SYSTEMY_MULTIMEDIALNE/lab8/img4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SYSTEMY_MULTIMEDIALNE/lab9/SM_Lab09_Base.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SYSTEMY_MULTIMEDIALNE/lab9/clip_1.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SYSTEMY_MULTIMEDIALNE/lab9/clip_2.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SYSTEMY_MULTIMEDIALNE/lab9/clip_3.mp4" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="3E4QHmJwsPN6XA1RUA9VLmrEXRu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.RadMigrateCodeStyle": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/mizula/ZUT/Programowanie_rownolegle_wspol/labirynt",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a89161b7-66e8-4327-9253-be6954273429" name="Changes" comment="" />
+      <created>1779435276202</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1779435276202</updated>
+      <workItem from="1779435277261" duration="1107000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

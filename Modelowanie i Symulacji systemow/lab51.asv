@@ -1,0 +1,42 @@
+
+
+out = sim("lab5.slx");
+
+r = out.r.Data;
+th = out.y.Data;
+t=out.r.Time;
+l = str2double(get_param('lab5/Subsystem', 'l'));
+m = str2double(get_param('lab5/Subsystem', 'm'));
+
+lmax = l + max(r);
+figure
+xa=0;
+ya=0;
+ne = 8;
+a = 1;
+r0 = 0.5;
+for i = 1:5:length(t)
+    ls = l + r(i);
+
+
+    xb = -ls*sin(th(i));
+    yb = -ls*cos(th(i));
+    
+ 
+    % start, start,kulka,kulka,zwoje,dlugosc,promien
+    [xs, ys] = spring(xa, ya, xb, yb, ne, a, r0);
+
+    cla
+    hold on
+
+    plot(xs, ys, 'r', 'LineWidth', 2)
+    plot(xb, yb, 'bo', 'MarkerFaceColor', 'b', 'MarkerSize', 5*m)
+    plot(0, 0, 'ko', 'MarkerFaceColor', 'k', 'MarkerSize', 8)
+
+    axis equal
+    axis([-1.1*lmax 1.1*lmax -1.1*lmax 1.1*lmax])
+    grid on
+
+    drawnow
+    pause(0.01)
+end

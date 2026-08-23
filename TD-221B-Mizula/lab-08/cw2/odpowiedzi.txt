@@ -1,0 +1,15 @@
+Orginalne bity: 01001
+bity ASK: 00000
+bity PSK: 00000
+Dla ASK rowne h: 0.75 BER wynosi: 0.4
+Dla PSK rowne h: 0.75 BER wynosi: 0.4
+Orginalne bity: 01001
+bity ASK: 01001
+bity PSK: 01001
+Dla ASK rowne h: 0.375 BER wynosi: 0
+Dla PSK rowne h: 0.375 BER wynosi: 0
+Orginalne bity: 01001
+bity ASK: 11001
+bity PSK: 01001
+Dla ASK rowne h: 0.25 BER wynosi: 0.2
+Dla PSK rowne h: 0.25 BER wynosi: 0

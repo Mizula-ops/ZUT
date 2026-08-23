@@ -1,0 +1,20 @@
+KROk1:
+cd "sciezka programu"
+KROK2:
+gcc przyklad.c -o przyklad.exe (Exe jest zroione można pominąć)
+KROK3:
+./przykład.exe argumenty 
+Program1
+Dzieli argumenty na dwie polowy i wyrzuca kod powrotu z największym argumentem
+Program2 
+Słownik zlicza litery
+Program3
+Pliki się porozumiewają odczytywaja binarny plik
+POROZUMIEWANIE SIE PROGRAM3
+KROK1
+.\13s_s.exe file255.bin _SHMEM_
+gdzie "_SHMEM_" to ten ala klucz/powloka wspoldzielona może być tu cokolwiek
+KROK2
+otworz nowe okna
+KROK3 
+.\13s_r.exe szpaczek.txt _SHMEM_
